@@ -306,7 +306,7 @@ Run Application
 uvicorn app:app --reload
 📖 Swagger Documentation
 
-Open:
+After starting the server,Open:
 
 http://127.0.0.1:8000/docs
 🧪 Testing
